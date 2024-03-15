@@ -1,5 +1,16 @@
 header
 body{
-    background-color:CD0404
-    ;
+
+
+.cabecalho {
+    background-color:CD0404;
+    color: red}
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 24px 0;
+}
+
+.cabecalho-imagem{
+    display: inline block;
 }
