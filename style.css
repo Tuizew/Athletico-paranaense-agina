@@ -11,7 +11,7 @@ body {
     display: flex;
     justify-content: space-around;
     align-items: center;
-    padding: 24px 0;
+    padding: 15px 0;
 }
 
 .cabecalho-imagem{
@@ -38,7 +38,7 @@ body {
 }
 
 .escola-div-conteudo{
-    width: 15%;
+    width: 35%;
 }
 
 
