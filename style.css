@@ -50,7 +50,7 @@ body {
     padding: 24px 0;
 }
 .estudante-imagem{
-    width: 30px;
+    width: 120px;
 }
 
 .estudante-icone{
@@ -65,7 +65,7 @@ body {
 
 .estudante-titulo{
     text-align: center;
-    padding: 50px 0;
+    padding: 15px 0;
 }
 
 .estudante-todos{
